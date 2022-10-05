@@ -6,6 +6,8 @@
 # https://www.reddit.com/user/depressive_monk/
 # Date: 26 May 2021
 # 
+# Added PS5 Blocklist from https://www.youtube.com/c/MODDEDWARFARE
+# Date: 5 Oct 2022
 # ===============================================================
 0.0.0.0	dau01.ps4.update.playstation.net
 0.0.0.0	dbr01.ps4.update.playstation.net
@@ -64,8 +66,6 @@
 0.0.0.0	themis.dl.playstation.net
 0.0.0.0	tmdb.np.dl.playstation.net
 0.0.0.0	t-prof.np.community.playstation.net
-
-# PS5 Blocklist from https://www.youtube.com/c/MODDEDWARFARE
 0.0.0.0 duk01.ps5.update.playstation.net
 0.0.0.0 fuk01.ps5.update.playstation.net
 0.0.0.0 dus01.ps5.update.playstation.net
