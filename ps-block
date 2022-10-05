@@ -65,7 +65,7 @@
 0.0.0.0	tmdb.np.dl.playstation.net
 0.0.0.0	t-prof.np.community.playstation.net
 
-#PS5 Blocklist from https://www.youtube.com/c/MODDEDWARFARE
+# PS5 Blocklist from https://www.youtube.com/c/MODDEDWARFARE
 0.0.0.0 duk01.ps5.update.playstation.net
 0.0.0.0 fuk01.ps5.update.playstation.net
 0.0.0.0 dus01.ps5.update.playstation.net
