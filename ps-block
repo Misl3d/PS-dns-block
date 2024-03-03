@@ -1,13 +1,11 @@
-# Title: ps4_dns_block/phoanglong
+# Title: PS-Block
 #
-# This hosts file is a merged collection of hosts from depressive_monk
-# to disable any update from ps4. I'm just creating GitHub Raw Hosts data so everyone can use
-# This work is by depressive_monk, please give all the credit to him
-# https://www.reddit.com/user/depressive_monk/
-# Date: 26 May 2021
-# 
-# Added PS5 Blocklist from https://www.youtube.com/c/MODDEDWARFARE
+# The hosts file is just a combination of: 
+# https://github.com/phoanglong/ps4-dns-block
+# https://github.com/cjrb007/ps5-dns-block
+# Covers Both the PS4 and PS5 in one hosts file
 # Date: 3 March 2024
+# PS4 List
 # ===============================================================
 0.0.0.0	dau01.ps4.update.playstation.net
 0.0.0.0	dbr01.ps4.update.playstation.net
@@ -76,6 +74,8 @@
 0.0.0.0 rnps-crl.dl.playstation.net
 0.0.0.0 urlconfig.api.playstation.com
 0.0.0.0 crepo.ww.dl.playstation.net
+# PS5 List
+# ===============================================================
 0.0.0.0 dau01.ps5.update.playstation.net
 0.0.0.0 dbr01.ps5.update.playstation.net
 0.0.0.0 dcn01.ps5.update.playstation.net
@@ -117,6 +117,3 @@
 0.0.0.0 hus01.ps5.update.playstation.net
 0.0.0.0 sgst.prod.dl.playstation.net
 0.0.0.0 gs2.ww.prod.dl.playstation.net
-0.0.0.0 djp01.ps5.update.playstation.net
-0.0.0.0 fjp01.ps5.update.playstation.net
-0.0.0.0 sgst.prod.dl.playstation.net
