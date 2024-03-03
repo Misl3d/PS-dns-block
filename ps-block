@@ -7,7 +7,7 @@
 # Date: 26 May 2021
 # 
 # Added PS5 Blocklist from https://www.youtube.com/c/MODDEDWARFARE
-# Date: 5 Oct 2022
+# Date: 3 March 2024
 # ===============================================================
 0.0.0.0	dau01.ps4.update.playstation.net
 0.0.0.0	dbr01.ps4.update.playstation.net
@@ -66,13 +66,57 @@
 0.0.0.0	themis.dl.playstation.net
 0.0.0.0	tmdb.np.dl.playstation.net
 0.0.0.0	t-prof.np.community.playstation.net
-0.0.0.0 duk01.ps5.update.playstation.net
-0.0.0.0 fuk01.ps5.update.playstation.net
-0.0.0.0 dus01.ps5.update.playstation.net
-0.0.0.0 fus01.ps5.update.playstation.net
-0.0.0.0 feu01.ps5.update.playstation.net
+0.0.0.0 ps4-system.sec.np.dl.playstation.net
+0.0.0.0 event.api.np.km.playstation.net
+0.0.0.0 ps4updptl.uk.np.community.playstation.net
+0.0.0.0 static-resource.np.community.playstation.net
+0.0.0.0 csla.np.community.playstation.net
+0.0.0.0 us.np.stun.playstation.net
+0.0.0.0 fswitch.dl.playstation.net
+0.0.0.0 rnps-crl.dl.playstation.net
+0.0.0.0 urlconfig.api.playstation.com
+0.0.0.0 crepo.ww.dl.playstation.net
 0.0.0.0 dau01.ps5.update.playstation.net
+0.0.0.0 dbr01.ps5.update.playstation.net
+0.0.0.0 dcn01.ps5.update.playstation.net
+0.0.0.0 deu01.ps5.update.playstation.net
+0.0.0.0 dhk01.ps5.update.playstation.net
+0.0.0.0 djp01.ps5.update.playstation.net
+0.0.0.0 dkr01.ps5.update.playstation.net
+0.0.0.0 dmx01.ps5.update.playstation.net
+0.0.0.0 dru01.ps5.update.playstation.net
+0.0.0.0 dsa01.ps5.update.playstation.net
+0.0.0.0 dtw01.ps5.update.playstation.net
+0.0.0.0 duk01.ps5.update.playstation.net
+0.0.0.0 dus01.ps5.update.playstation.net
 0.0.0.0 fau01.ps5.update.playstation.net
+0.0.0.0 fbr01.ps5.update.playstation.net
+0.0.0.0 fcn01.ps5.update.playstation.net
+0.0.0.0 feu01.ps5.update.playstation.net
+0.0.0.0 fhk01.ps5.update.playstation.net
+0.0.0.0 fjp01.ps5.update.playstation.net
+0.0.0.0 fkr01.ps5.update.playstation.net
+0.0.0.0 fmx01.ps5.update.playstation.net
+0.0.0.0 fru01.ps5.update.playstation.net
+0.0.0.0 fsa01.ps5.update.playstation.net
+0.0.0.0 ftw01.ps5.update.playstation.net
+0.0.0.0 fuk01.ps5.update.playstation.net
+0.0.0.0 fus01.ps5.update.playstation.net
+0.0.0.0 hau01.ps5.update.playstation.net
+0.0.0.0 hbr01.ps5.update.playstation.net
+0.0.0.0 hcn01.ps5.update.playstation.net
+0.0.0.0 heu01.ps5.update.playstation.net
+0.0.0.0 hhk01.ps5.update.playstation.net
+0.0.0.0 hjp01.ps5.update.playstation.net
+0.0.0.0 hkr01.ps5.update.playstation.net
+0.0.0.0 hmx01.ps5.update.playstation.net
+0.0.0.0 hru01.ps5.update.playstation.net
+0.0.0.0 hsa01.ps5.update.playstation.net
+0.0.0.0 htw01.ps5.update.playstation.net
+0.0.0.0 huk01.ps5.update.playstation.net
+0.0.0.0 hus01.ps5.update.playstation.net
+0.0.0.0 sgst.prod.dl.playstation.net
+0.0.0.0 gs2.ww.prod.dl.playstation.net
 0.0.0.0 djp01.ps5.update.playstation.net
 0.0.0.0 fjp01.ps5.update.playstation.net
 0.0.0.0 sgst.prod.dl.playstation.net
